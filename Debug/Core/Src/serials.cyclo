@@ -1,0 +1,8 @@
+../Core/Src/serials.c:27:6:HAL_I2C_SlaveRxCpltCallback	2
+../Core/Src/serials.c:54:6:HAL_UART_RxCpltCallback	2
+../Core/Src/serials.c:64:5:__io_putchar	1
+../Core/Src/serials.c:71:5:_write	1
+../Core/Src/serials.c:78:5:_read	3
+../Core/Src/serials.c:106:10:get_uart_buffer_len	5
+../Core/Src/serials.c:129:9:check_uart_buffer	7
+../Core/Src/serials.c:183:9:check_i2c2_buffer	5

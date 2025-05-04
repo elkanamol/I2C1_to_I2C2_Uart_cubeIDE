@@ -1,0 +1,4 @@
+../Core/Src/crc.c:19:10:crc16	4
+../Core/Src/crc.c:54:6:crc16_update_buffer	1
+../Core/Src/crc.c:72:10:crc16_extract_crc	2
+../Core/Src/crc.c:93:6:crc16_print_buffer	2
